@@ -6,7 +6,7 @@
 <h1 align="center">Slice.Net</h1>
 
 
-<h3 align="center">.Net Library for creating Dual-Screen desktop apps.</h3>
+<h3 align="center">.Net Library for creating split-screen desktop apps.</h3>
 
 ---
 
