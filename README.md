@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="./assets/light-logo.png#gh-light-mode-only" id="gh-light-mode-only" alt="Light-themed logo">
-    <img src="./assets/dark-logo.png#gh-dark-mode-only" id="gh-dark-mode-only" alt="Dark-themed logo">
+    <img src="./assets/light-logo.png#gh-light-mode-only" id="gh-light-mode-only" alt="Light-themed logo" width="35%" height="35%">
+    <img src="./assets/dark-logo.png#gh-dark-mode-only" id="gh-dark-mode-only" alt="Dark-themed logo" width="35%" height="35%">
 </p>
 
 <h1 align="center">Slice.Net</h1>
